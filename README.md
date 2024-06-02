@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sp-Kiran
-- 👀 I’m interested in ...
+- 👀 I’m interested in upgrading my Skills
 - 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on any Devops basic projects
+- 💞️ I’m looking to collaborate/learn any Devops basic projects.
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
